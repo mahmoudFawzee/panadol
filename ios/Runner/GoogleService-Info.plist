@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>567318524072-38u9bmm4b6tem77aun3310oi87hsdbm5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.567318524072-38u9bmm4b6tem77aun3310oi87hsdbm5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>567318524072-iom7cdfla3psphgrnms36t0oh7mk3eko.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxLcVYb6Po2cziewHmaK0Tsu4YzUZrcW0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>567318524072</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.panadol</string>
+	<key>PROJECT_ID</key>
+	<string>panadol-93bfb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>panadol-93bfb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:567318524072:ios:85d6c4c8c23a840fde929d</string>
+</dict>
+</plist>
